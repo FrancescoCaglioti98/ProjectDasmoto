@@ -1,0 +1,39 @@
+.intro {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: URL(sfondo.webp); 
+}
+
+.titolo{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+
+#pennello{
+    background-color: mediumspringgreen;
+}
+
+a{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#cornice{
+    background-color: lightcoral;
+}
+
+#pittura{
+    background-color: skyblue;
+}
+
+p{
+    font-size: 15px;
+    font-weight: lighter;
+}
